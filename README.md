@@ -1,10 +1,6 @@
 Resume Q&A with FastAPI
 
 
-
-
-
-
 A FastAPI-powered application that lets you upload your resume and ask natural language questions about it.
 It extracts text from your resume and provides context-aware answers instantly.
 
@@ -39,14 +35,13 @@ resume-qa-app/
 
 Clone this repository
 
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/AncyJudilK/resume-qa-llm.git
+
 
 
 Create a virtual environment
 
 python -m venv venv
-source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
 
@@ -102,7 +97,3 @@ JSON body:
   "answer": "You have 2 years of experience in Python, FastAPI, and Machine Learning."
 }
 
-👩‍💻 Author
-
-Ancy Judil K
-🌍 AI/ML Enthusiast | Backend Developer
