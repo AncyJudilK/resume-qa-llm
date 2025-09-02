@@ -1,0 +1,30 @@
+Name: Ancy Judil K
+Place: Chennai
+Phone: 8925774678
+
+Role: AI/ML Junior Developer
+
+Summary:
+AI/ML Junior Developer with hands-on experience in Python-based projects, including OCR (text extraction), AI voice assistants, fraud detection using machine learning, and job scraping. Skilled in Generative AI, RAG, and building intelligent agents. Passionate about applying AI to real-world problems and continuously learning emerging technologies.
+
+Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- RAG (Retrieval Augmented Generation)
+- OCR (Optical Character Recognition)
+- Job Scraping
+- FastAPI
+- Streamlit
+
+Projects:
+1. OCR Project – Extracting text from images using FastAPI.
+2. AI Voice Assistant – Voice command recognition and response.
+3. Fraud Detection System – Machine learning classification for fraud prevention.
+4. Job Scraping App – Automated job search and filtering with Streamlit.
+5. AI Dream Architect – Generative AI for life planning.
+
+Experience:
+1.5 years of experience in AI/ML development.
