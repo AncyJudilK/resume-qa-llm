@@ -27,8 +27,6 @@ resume-qa-app/
 │── app.py              # Main FastAPI app
 │── requirements.txt    # Dependencies
 │── resume.txt          # Sample resume file
-│── start.sh            # Entrypoint for Render
-│── render.yaml         # Deployment config
 │── README.md           # Documentation
 
 ▶️ Run Locally
